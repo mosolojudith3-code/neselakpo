@@ -1,0 +1,160 @@
+body 
+{  
+ background-color: rgb(255, 255, 255);
+   margin: 0;
+ }
+
+ header{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #1a0253;
+    color:#fff;
+    padding: 1%;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+   
+    width: 100%;
+  
+ }
+ .current-menu-item a {
+    text-decoration: underline !important;
+}
+
+.spacer{
+    height: 99px;
+}
+.JBN
+{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+footer
+
+{
+border-top: solid;
+text-align: left;
+justify-content: center;
+justify-items: center;
+
+}
+
+.base
+{
+    gap: 15;
+    height: 20px;
+    margin-left: 20px;
+    text-align: center;
+ 
+}
+.produits
+{
+    border-radius: 10px;
+    border: 1px solid;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+.article
+{
+    right: 50px;
+    height: 600;
+    margin: 20px;
+}
+.btn
+{
+    background-color: rgb(60, 121, 10);
+    border: 5px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+
+
+.menu
+{
+    margin-top: 25px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.menu a{
+    text-transform: uppercase;
+    font-size: medium;
+    color:#fff;
+    font-weight: bold;
+    display: inline-block;
+    border-bottom: 3px solid #1a0253;
+    transition: all 0.2s ease-in-out;
+}
+
+.menu a:hover{
+    border-bottom: 3px solid #fff;
+}
+
+
+.galerie
+{
+    padding: 10px 5%;
+}
+
+a
+{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+p 
+{  
+    margin: 12px;
+    text-align: left;
+    text-align: justify;
+}
+
+.maison
+{
+    text-align: left;
+}
+
+.contenu_principal
+{
+
+    display: flex;
+    border: 2px solid black;
+}
+.jr
+
+{
+    height: 400px;
+}
+.marie{
+
+    width: 500px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 25px;
+    text-align: center;
+}
+.marie img{
+    width: 500px;
+}
+
+.okindo{
+    border : 5px double blueviolet
+}
+
+.joyce{
+    border: 5px double blueviolet;
+}
+
+.mada{
+    text-align: center;
+}
+
+.kaleko{
+    text-align: center;
+}
